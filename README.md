@@ -19,7 +19,7 @@ BellaBeat_Dashboard.twbx: Tableau workbook with charts and dashboard
 
 bellabeat_cleaned_data.csv: Cleaned data I used
 
-summary.csv: Quick snapshot of key stats
+(https://github.com/EMMANUELWB/BellaBeat_skill_development/raw/refs/heads/main/SUMMARY%20BELLABEAT.xlsx): Quick snapshot of key stats
 
 visuals/dashboard_screenshot.png: Optional dashboard screenshot
 
