@@ -17,7 +17,7 @@ I recently explored the BellaBeat activity dataset to uncover patterns in how us
 
 [BellaBeat_Dashboard.twbx](https://github.com/EMMANUELWB/BellaBeat_skill_development/blob/main/dashboards.PNG): Tableau workbook with charts and dashboard
 
-bellabeat_cleaned_data.csv: Cleaned data I used
+[bellabeat_cleaned_data.csv](https://github.com/EMMANUELWB/BellaBeat_skill_development/raw/refs/heads/main/dailyactive.new.xlsx): Cleaned data I used
 
 (https://github.com/EMMANUELWB/BellaBeat_skill_development/raw/refs/heads/main/SUMMARY%20BELLABEAT.xlsx): Quick snapshot of key stats
 
