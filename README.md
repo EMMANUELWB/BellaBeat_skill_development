@@ -21,7 +21,7 @@ I recently explored the BellaBeat activity dataset to uncover patterns in how us
 
 (https://github.com/EMMANUELWB/BellaBeat_skill_development/raw/refs/heads/main/SUMMARY%20BELLABEAT.xlsx): Quick snapshot of key stats
 
-visuals/dashboard_screenshot.png: Optional dashboard screenshot
+[visuals/dashboard_screenshot.png](https://github.com/EMMANUELWB/BellaBeat_skill_development/blob/main/dashboards.PNG): Optional dashboard screenshot
 
 🖼️ Dashboard Preview
 (You can check the image in the visuals folder)
